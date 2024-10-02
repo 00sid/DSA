@@ -17,9 +17,11 @@ void printPat(int n)
         for (int j = 0; j <= i; j++)
         {
             cout << static_cast<char>(start + 64);
+        
             start += 1;
         }
         cout << endl;
+        
     }
 }
 
