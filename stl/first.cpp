@@ -140,6 +140,7 @@ void insertInVector()
     cout << "After swapping values" << endl;
     printVector(a);
     printVector(b);
+    a.clear(); // clears the values
 }
 
 int main()
