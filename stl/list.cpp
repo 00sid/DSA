@@ -9,6 +9,9 @@ void explainList()
     ls.emplace_back(4); //{2,4}
     ls.push_front(5);   //{5,2,4}
     cout << *(ls.begin()) << endl;
+
+    // rest functions same as vector
+    // begin, end ,rbegin,rend
 }
 int main()
 {
