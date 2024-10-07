@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/siddhartha/Desktop/dsa/recursion/reverse_num'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z6revArriPii, symObjAddr: 0x0, symBinAddr: 0x100003C00, symSize: 0xE0 }
+  - { offsetInCU: 0x463D, offset: 0x463D, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x10C, symBinAddr: 0x100003D0C, symSize: 0x58 }
+  - { offsetInCU: 0x467D, offset: 0x467D, size: 0x8, addend: 0x0, symName: __ZNSt3__14swapB8ue170006IiEENS_9enable_ifIXaasr21is_move_constructibleIT_EE5valuesr18is_move_assignableIS2_EE5valueEvE4typeERS2_S5_, symObjAddr: 0x164, symBinAddr: 0x100003D64, symSize: 0x3C }
+  - { offsetInCU: 0x46CE, offset: 0x46CE, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x2A8, symBinAddr: 0x100003EA8, symSize: 0x2C }
+  - { offsetInCU: 0x715D, offset: 0x715D, size: 0x8, addend: 0x0, symName: __Z6revArriPii, symObjAddr: 0x0, symBinAddr: 0x100003C00, symSize: 0xE0 }
+  - { offsetInCU: 0x726A, offset: 0x726A, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0xE0, symBinAddr: 0x100003CE0, symSize: 0x2C }
+  - { offsetInCU: 0x729C, offset: 0x729C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1A0, symBinAddr: 0x100003DA0, symSize: 0x84 }
+  - { offsetInCU: 0x72D2, offset: 0x72D2, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x224, symBinAddr: 0x100003E24, symSize: 0x84 }
+  - { offsetInCU: 0x733E, offset: 0x733E, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2D4, symBinAddr: 0x100003ED4, symSize: 0x38 }
+...
